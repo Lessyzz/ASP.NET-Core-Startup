@@ -132,3 +132,8 @@ C:\Users\PC\Desktop\aspcore\ASP.NET-Core-Startup\obj\Debug\net8.0\refint\ASP.NET
 C:\Users\PC\Desktop\aspcore\ASP.NET-Core-Startup\obj\Debug\net8.0\ASP.NET-Core-Startup.pdb
 C:\Users\PC\Desktop\aspcore\ASP.NET-Core-Startup\obj\Debug\net8.0\ASP.NET-Core-Startup.genruntimeconfig.cache
 C:\Users\PC\Desktop\aspcore\ASP.NET-Core-Startup\obj\Debug\net8.0\ref\ASP.NET-Core-Startup.dll
+C:\Users\PC\Desktop\aspcore\ASP.NET-Core-Startup\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PC\Desktop\aspcore\ASP.NET-Core-Startup\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Desktop\aspcore\ASP.NET-Core-Startup\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Desktop\aspcore\ASP.NET-Core-Startup\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Desktop\aspcore\ASP.NET-Core-Startup\obj\Debug\net8.0\ASP.NET-Core-Startup.MvcApplicationPartsAssemblyInfo.cs
