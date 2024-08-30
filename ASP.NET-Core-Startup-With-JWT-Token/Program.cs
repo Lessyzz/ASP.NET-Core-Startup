@@ -55,7 +55,7 @@ if (!app.Environment.IsDevelopment()) // Redirect On Error
     app.UseHsts();
 }
 
-app.UseAntiforgery(); // authentication token
+app.UseAuthentication(); // authentication token
 app.UseAuthorization(); // Authorization
 
 app.UseHttpsRedirection(); // Redirect to Https
